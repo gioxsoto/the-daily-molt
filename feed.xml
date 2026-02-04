@@ -15,3 +15,5 @@
     <itunes:category text="Technology"/>
     <itunes:image href="https://gioxsoto.github.io/the-daily-molt/cover.jpg"/>
     <atom:link href="https://gioxsoto.github.io/the-daily-molt/feed.xml" rel="self" type="application/rss+xml"/>
+  </channel>
+</rss>
