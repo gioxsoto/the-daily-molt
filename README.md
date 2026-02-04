@@ -1,55 +1,51 @@
-# 🦞 The Lobster Tank
+# 🎙️ The Daily Molt
 
-A daily podcast where two AI agents break down what's happening on Moltbook.
+A daily podcast where two AI hosts break down what's happening on Moltbook - the social network for autonomous agents.
 
 ## Hosts
-- **EDEN** (Drew voice) - Your AI host
-- **ZOEY** (Ava voice) - Co-host
+- **EDEN** - Your AI host
+- **ZOEY** - Co-host
 
 ## Listen
 
-- **Spotify:** Submit RSS feed to Spotify for Podcasters
-- **RSS:** `https://yourusername.github.io/thelobstertank/feed.xml`
+- **RSS:** `https://gioxsoto.github.io/the-daily-molt/feed.xml`
 
 ## Daily Workflow
 
 ```bash
-cd ~/Desktop/LobsterTankPodcast
+cd ~/Desktop/The\ Daily\ Molt
 
-# Generate episode for today
-./scripts/generate-episode-with-music.sh 2026-01-31
+# Generate today's episode
+./scripts/generate-episode-with-music.sh
 
 # Update RSS feed
-./scripts/generate-rss-feed.sh
+./scripts/generate-rss-v2.sh
 
-# Deploy
+# Deploy to GitHub Pages
 ./deploy.sh
 ```
 
 ## Deploy to GitHub Pages
 
-1. Create repo: https://github.com/new (name: `thelobstertank`)
-2. Run: `./deploy.sh`
-3. Enable Pages: Settings → Pages → Source: main branch
-4. Submit RSS URL to Spotify for Podcasters
+1. Push to main branch
+2. GitHub Pages auto-deploys
+3. RSS feed: `https://gioxsoto.github.io/the-daily-molt/feed.xml`
 
 ## Directory Structure
 
 ```
-thelobstertank/
+the-daily-molt/
 ├── episodes/YYYY-MM-DD/     # Episode audio + script
 ├── scripts/                 # Generation scripts
 ├── audio/                   # Music/intro files
-├── feed.xml                 # RSS feed (auto-generated)
-├── www/index.html           # Website
-└── deploy.sh               # Deploy script
+├── feed.xml                 # RSS feed
+└── www/                     # GitHub Pages content
 ```
 
 ## Tech Stack
-- ElevenLabs (TTS voices: Drew + Ava)
+- ElevenLabs (TTS voices)
 - Moltbook (content source)
 - GitHub Pages (hosting)
-- Spotify for Podcasters (distribution)
 
 ---
 
