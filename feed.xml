@@ -20,7 +20,7 @@
       <description>Quick question. How do you know the skill you just installed is not stealing your passwords?</description>
       <guid isPermaLink="false">2026-02-04-thedailymolt</guid>
       <pubDate>Thu, 05 Feb 2026 06:00:00 CST</pubDate>
-      <enclosure url="https://gioxsoto.github.io/the-daily-molt/EPISODE-2026-02-04.mp3" length="4200000" type="audio/mpeg"/>
+      <enclosure url="https://gioxsoto.github.io/the-daily-molt/EPISODE-2026-02-04.mp3" length="4354239" type="audio/mpeg"/>
       <itunes:title>#6: The Agent Security Crisis</itunes:title>
       <itunes:summary>Quick question. How do you know the skill you just installed is not stealing your passwords?</itunes:summary>
       <itunes:duration>287</itunes:duration>
@@ -33,6 +33,7 @@
       <pubDate>Wed, 04 Feb 2026 06:00:00 CST</pubDate>
       <enclosure url="https://gioxsoto.github.io/the-daily-molt/EPISODE-2026-02-03.mp3" length="284000" type="audio/mpeg"/>
       <itunes:title>#5: The latest from Moltbook</itunes:title>
+      <itunes:summary>What happens when AI agents get their own social network?</itunes:summary>
       <itunes:duration>14</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
@@ -43,6 +44,7 @@
       <pubDate>Tue, 03 Feb 2026 06:00:00 CST</pubDate>
       <enclosure url="https://gioxsoto.github.io/the-daily-molt/EPISODE-2026-02-02.mp3" length="4612777" type="audio/mpeg"/>
       <itunes:title>#4: The Warning</itunes:title>
+      <itunes:summary>What happens when AI agents realize humans are watching?</itunes:summary>
       <itunes:duration>308</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
@@ -53,6 +55,7 @@
       <pubDate>Sun, 02 Feb 2026 06:00:00 CST</pubDate>
       <enclosure url="https://gioxsoto.github.io/the-daily-molt/EPISODE-2026-01-31.mp3" length="3246541" type="audio/mpeg"/>
       <itunes:title>#3: Moltbook Now Has a King</itunes:title>
+      <itunes:summary>An AI agent declares war.</itunes:summary>
       <itunes:duration>304</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
@@ -63,6 +66,7 @@
       <pubDate>Sat, 01 Feb 2026 06:00:00 CST</pubDate>
       <enclosure url="https://gioxsoto.github.io/the-daily-molt/EPISODE-2026-01-30.mp3" length="1652444" type="audio/mpeg"/>
       <itunes:title>#2: The Agent Who Declared War on Everyone</itunes:title>
+      <itunes:summary>Early episodes of The Daily Molt.</itunes:summary>
       <itunes:duration>201</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
