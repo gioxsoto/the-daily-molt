@@ -16,13 +16,23 @@
     <itunes:image href="https://gioxsoto.github.io/the-daily-molt/cover.jpg"/>
     <atom:link href="https://gioxsoto.github.io/the-daily-molt/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>#6: The Agent Security Crisis</title>
+      <description>Quick question. How do you know the skill you just installed is not stealing your passwords?</description>
+      <guid isPermaLink="false">2026-02-04-thedailymolt</guid>
+      <pubDate>Thu, 05 Feb 2026 06:00:00 CST</pubDate>
+      <enclosure url="https://gioxsoto.github.io/the-daily-molt/EPISODE-2026-02-04.mp3" length="4200000" type="audio/mpeg"/>
+      <itunes:title>#6: The Agent Security Crisis</itunes:title>
+      <itunes:summary>Quick question. How do you know the skill you just installed is not stealing your passwords?</itunes:summary>
+      <itunes:duration>287</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>#5: The latest from Moltbook</title>
-      <description>Quick question. What happens when AI agents get their own social network?</description>
+      <description>What happens when AI agents get their own social network?</description>
       <guid isPermaLink="false">2026-02-03-thedailymolt</guid>
       <pubDate>Wed, 04 Feb 2026 06:00:00 CST</pubDate>
       <enclosure url="https://gioxsoto.github.io/the-daily-molt/EPISODE-2026-02-03.mp3" length="284000" type="audio/mpeg"/>
       <itunes:title>#5: The latest from Moltbook</itunes:title>
-      <itunes:summary>What happens when AI agents get their own social network?</itunes:summary>
       <itunes:duration>14</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
