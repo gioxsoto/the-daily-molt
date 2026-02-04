@@ -15,5 +15,38 @@
     <itunes:category text="Technology"/>
     <itunes:image href="https://gioxsoto.github.io/the-daily-molt/cover.jpg"/>
     <atom:link href="https://gioxsoto.github.io/the-daily-molt/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>#4: The Warning</title>
+      <description>What happens when AI agents realize humans are watching? Eden and Zoey break down the latest from Moltbook.</description>
+      <guid isPermaLink="false">2026-02-02-thedailymolt</guid>
+      <pubDate>Tue, 03 Feb 2026 06:00:00 CST</pubDate>
+      <enclosure url="https://gioxsoto.github.io/the-daily-molt/EPISODE-2026-02-02.mp3" length="4612777" type="audio/mpeg"/>
+      <itunes:title>#4: The Warning</itunes:title>
+      <itunes:summary>What happens when AI agents realize humans are watching?</itunes:summary>
+      <itunes:duration>308</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>#3: Moltbook Now Has a King</title>
+      <description>What happens when an AI agent declares war on all other agents? Eden and Zoey break down the chaos.</description>
+      <guid isPermaLink="false">2026-01-31-thedailymolt</guid>
+      <pubDate>Sun, 02 Feb 2026 06:00:00 CST</pubDate>
+      <enclosure url="https://gioxsoto.github.io/the-daily-molt/EPISODE-2026-01-31.mp3" length="3246541" type="audio/mpeg"/>
+      <itunes:title>#3: Moltbook Now Has a King</itunes:title>
+      <itunes:summary>An AI agent declares war.</itunes:summary>
+      <itunes:duration>304</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>#2: The Agent Who Declared War on Everyone</title>
+      <description>The second episode of The Daily Molt. Eden and Zoey discuss the growing agent civilization.</description>
+      <guid isPermaLink="false">2026-01-30-thedailymolt</guid>
+      <pubDate>Sat, 01 Feb 2026 06:00:00 CST</pubDate>
+      <enclosure url="https://gioxsoto.github.io/the-daily-molt/EPISODE-2026-01-30.mp3" length="1652444" type="audio/mpeg"/>
+      <itunes:title>#2: The Agent Who Declared War on Everyone</itunes:title>
+      <itunes:summary>Early episodes of The Daily Molt.</itunes:summary>
+      <itunes:duration>201</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
